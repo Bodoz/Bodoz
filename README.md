@@ -20,7 +20,6 @@
 
 - Scalable software architecture  
 - Design patterns and best practices  
-- Artificial intelligence and machine learning  
 - Cloud technologies and DevOps
 
 ---
