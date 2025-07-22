@@ -29,8 +29,10 @@
 I'm open to collaborating on innovative and meaningful projects. If you have an idea and need a developer to bring it to life, **let’s talk**!
 
 📫 **Contact**  
+
 You’ll find my social links in the sidebar of my GitHub profile.
 
 ---
 
-> *“Code isn’t just for machines – it’s a language for humans to create.”*
+> *"Don’t compare yourself with anyone in this world. If you do so, you are insulting yourself."*  
+> — **Bill Gates**
