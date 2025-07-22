@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Bodoz
 
 🎓 I'm currently studying **Computer Engineering** and aspiring to become a **Software Engineer**.  
 💻 **Programming is my passion** – I love building custom solutions for **individuals and businesses** to help them **save time** and improve their workflows.  
@@ -30,9 +30,7 @@
 I'm open to collaborating on innovative and meaningful projects. If you have an idea and need a developer to bring it to life, **let’s talk**!
 
 📫 **Contact**  
-Email: [your@email.com]  
-LinkedIn: [your LinkedIn profile]  
-Portfolio (if available): [your website]
+You’ll find my social links in the sidebar of my GitHub profile.
 
 ---
 
