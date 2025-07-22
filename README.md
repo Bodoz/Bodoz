@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Bodoz
 
 🎓 I'm currently studying **Computer Engineering** and aspiring to become a **Software Engineer**.  
-💻 **Programming is my passion** – I love building custom solutions for **individuals and businesses** to help them **save time** and improve their workflows.  
+💻 I love building custom solutions for **individuals and businesses** to help them **save time** and improve their workflows.  
 🚀 I'm always looking for **creative and evolving projects**, and I believe that the best way to grow is to **never stop learning**.
 
 ---
